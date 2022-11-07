@@ -280,7 +280,7 @@ section p
 {
     section
     {
-        transition: 0.2s;
+        transition: transform 0.2s;
     }
 
     section img 
